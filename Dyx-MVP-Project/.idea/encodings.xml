@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/base/libs/gson-2.4.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/libs/logutil-1.0.6.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/libs/okhttp-2.7.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/libs/okhttputils-2_3_4.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/libs/okio-1.6.0.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/AppUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/ArrayUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/BaseAppManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/BaseUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/FileUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/FileUtil2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/JSONObjectHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/ListUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/LocalFileUncaughtExceptionHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/LogUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/NightModeHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/ObjectUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/SettingUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/SpUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/StatusBarUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/TimeUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/TimeUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/base/src/main/java/com/dyx/base/util/ToastUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
